@@ -1,16 +1,34 @@
-## Hi there 👋
+Abdulrahman Abed
+AI Developer & Data Analyst
 
-<!--
-**AboodAzar/AboodAzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I am an AI Developer and Data Analyst dedicated to bridging the gap between intelligent algorithms and impactful, real-world applications. I specialize in building end-to-end solutions, with a current focus on advancing my expertise in Deep Learning and sophisticated Data Pre-processing architectures.
 
-Here are some ideas to get you started:
+🛠 Technical Expertise
+Data Science: Advanced Data Analysis & Pre-processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI/ML: Machine Learning, Computer Vision, & Deep Neural Networks
+
+Specialized Fields: Prompt Engineering, Robotics, & Physics Simulation
+
+Operational: Workflow Automation & System Integration
+
+💻 Technical Stack
+Languages: Python
+
+Frameworks & Libraries: * DL/ML: PyTorch, TensorFlow, Scikit-Learn, Transformers
+
+Data: NumPy, Pandas, Matplotlib, Seaborn
+
+CV/Robotics: OpenCV (CV2), PyBullet, Turtle
+
+NLP/Tools: NLTK, RE, Pickle, PyWhatKit
+
+GUI: Tkinter
+
+🎓 Professional Leadership
+Former Chair | ACM Student Chapter @ ZUJ
+
+Former Webmaster | IEEE Computer Society @ ZUJ
+
+AI Consultant | iTeam @ ZUJ
